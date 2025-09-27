@@ -1,4 +1,4 @@
-# Mozilla Firefox
+# Mozilla Firefox - A low legacy thing to acces internet
 Firefox is a free, open-source web browser developed by the non-profit Mozilla Foundation and its subsidiary, the Mozilla Corporation, available on Windows, macOS, Linux, Android, and iOS. It uses the Gecko rendering engine to display web pages, supports web standards, and is highly customizable with add-ons and themes, making it a popular choice for both end-users and developers.
 This is completely free and open-source so you can customize it your style!
 
